@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.title1 {
+    color:#fff;
+    font-size: 64px;
+    text-transform: uppercase;
+    max-width: 900px;
+    line-height: 1.5;
+    margin: 0 auto;
+    padding-top: 120px;
+}
